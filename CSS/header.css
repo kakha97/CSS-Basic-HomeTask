@@ -24,7 +24,7 @@ li a {
 header {
     position: absolute;
     display: flex;
-    width: 100%;
+    width: 1200px;
     align-items: center;
     justify-content: space-between;
     z-index: 1;
@@ -41,7 +41,7 @@ header nav li {
 
 nav {
     position: relative;
-    margin-right: 772px;
+    margin-right: 390px;
 }
 
 header a {
