@@ -12,15 +12,13 @@ li a {
     letter-spacing: 0.2em;
 
 }
-header h2 a{
+.title a{
     text-decoration: none;
     cursor: pointer;
     color: #FFFFFF;
     font-family: Source Sans Pro;
     font-size: 20px;
     font-weight: 600;
-    margin-left: 180px;
-
 }
 
 header {
@@ -42,7 +40,8 @@ header nav li {
 }
 
 nav {
-    margin-right: 390px;
+    position: relative;
+    margin-right: 772px;
 }
 
 header a {
@@ -63,6 +62,10 @@ header a:hover:after {
     width: 100%;
 }
 
+.title {
+    position: relative;
+    margin-left: 152px;
+}
 
 
 
