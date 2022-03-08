@@ -66,25 +66,28 @@
     text-align: center;
     color: #666666;
 }
-.section article {
+.grid {
     position: absolute;
-    width: 983px;
-    height: 194px;
-    margin-left: 97px;
-    margin-top: 351px;
+    margin-left: 150px;
+    margin-top: 348px;
     font-family: Source Sans Pro;
     line-height: 22px;
-    text-align: center;
-    color: #000000;
+    color: #666666;
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: start;
+    column-gap: 83px;
 }
-.section button {
+
+.grid button {
     position: absolute;
     width: 115px;
     height: 36px;
     border-radius: 18px;
     background-color: #55C2D8;
-    margin-left: 542px;
-    margin-top: 566px;
+    margin-left: 392px;
+    margin-top: 218px; 
     font-family: Oswald Regular;
     font-weight: 400;
     font-size: 14px;
