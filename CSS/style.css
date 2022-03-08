@@ -187,6 +187,7 @@ address {
     text-decoration: none;
 }
 .grid-ft a {
+    position: absolute;
     margin-left: 362px;
     margin-top: 99px;
     text-decoration: none;
