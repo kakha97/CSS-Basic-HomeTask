@@ -60,7 +60,6 @@ section {
     line-height: 22px;
 }
 .button-container {
-    width: 100%;
     text-align: center;
     margin-top: 35px;
 }
@@ -70,7 +69,6 @@ section {
     background-color:#55C2D8;
     color: var(--lettercolor);
     font-family: var(--Oswaldfont);
-    font-weight: 100;
     font-size: 14px;
     line-height: 26px;
     letter-spacing: 0.1em;
