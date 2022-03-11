@@ -117,7 +117,6 @@ footer {
     height: 170px;
 }
 .sml-logo {
-    display: inline-block;
     margin-left: 145px;
     margin-top: 19px;
 }
@@ -128,9 +127,6 @@ footer {
     font-family: var(--SansProfont);
     padding-left: 16px;
     font-size: 18px;
-}
-address {
-    font-style: normal;
 }
 .footer-address {
     color: var(--addresscolor);
